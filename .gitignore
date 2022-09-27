@@ -1,1 +1,3 @@
 acc.json
+*.log
+__pycache__
